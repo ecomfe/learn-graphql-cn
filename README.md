@@ -1,6 +1,4 @@
 # 关于本文
 本文主要针对 [`learngraphql`](https://learngraphql.com) 文档进行翻译，用于 `baidu EFE`组内学习` graphql`使用，仅供参考。
 - [原文](https://learngraphql.com/basics/introduction)
-- [翻译摘要](https://github.com/EFE-GraphQL/LearnGraphQL-CN/blob/master/SUMMARY.md)
-- [在线阅读](https://efe-graphql.gitbooks.io/learngraphql-cn/content/)
-- [`PDF`](https://www.gitbook.com/download/pdf/book/efe-graphql/learngraphql-cn)
+- [在线阅读](https://zchar-hong.gitbooks.io/learngraphql-cn/content/)
