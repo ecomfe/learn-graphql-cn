@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
